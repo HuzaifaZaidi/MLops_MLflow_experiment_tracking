@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/929025125155571571/801bb52ee2ac4874a48db018cf122f03/artifacts
+end_time: 1747778989244
+entry_point_name: ''
+experiment_id: '929025125155571571'
+lifecycle_stage: active
+run_id: 801bb52ee2ac4874a48db018cf122f03
+run_name: clumsy-wren-312
+run_uuid: 801bb52ee2ac4874a48db018cf122f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747778953202
+status: 3
+tags: []
+user_id: HP
