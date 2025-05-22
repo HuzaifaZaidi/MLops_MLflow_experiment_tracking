@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/38ce8a8068c74644880e8e86ea3a9476/artifacts
+end_time: 1747779974844
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 38ce8a8068c74644880e8e86ea3a9476
+run_name: likeable-fox-545
+run_uuid: 38ce8a8068c74644880e8e86ea3a9476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747779974367
+status: 3
+tags: []
+user_id: HP

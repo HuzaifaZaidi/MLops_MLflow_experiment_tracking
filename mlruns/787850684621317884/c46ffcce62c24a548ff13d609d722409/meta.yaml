@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/c46ffcce62c24a548ff13d609d722409/artifacts
+end_time: 1747779976700
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: c46ffcce62c24a548ff13d609d722409
+run_name: carefree-sheep-797
+run_uuid: c46ffcce62c24a548ff13d609d722409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747779974866
+status: 3
+tags: []
+user_id: HP

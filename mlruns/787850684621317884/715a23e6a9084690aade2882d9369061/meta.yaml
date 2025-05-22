@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/715a23e6a9084690aade2882d9369061/artifacts
+end_time: 1747822607421
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 715a23e6a9084690aade2882d9369061
+run_name: ambitious-shoat-744
+run_uuid: 715a23e6a9084690aade2882d9369061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822607268
+status: 3
+tags: []
+user_id: HP

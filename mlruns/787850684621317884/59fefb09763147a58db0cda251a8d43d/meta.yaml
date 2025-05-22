@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/59fefb09763147a58db0cda251a8d43d/artifacts
+end_time: 1747822607054
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 59fefb09763147a58db0cda251a8d43d
+run_name: polite-skunk-529
+run_uuid: 59fefb09763147a58db0cda251a8d43d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822606897
+status: 3
+tags: []
+user_id: HP

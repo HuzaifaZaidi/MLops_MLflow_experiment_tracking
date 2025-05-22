@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/de4ac8c47eb54c219ad355cecdae2bff/artifacts
+end_time: 1747779979197
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: de4ac8c47eb54c219ad355cecdae2bff
+run_name: casual-elk-6
+run_uuid: de4ac8c47eb54c219ad355cecdae2bff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747779979096
+status: 3
+tags: []
+user_id: HP

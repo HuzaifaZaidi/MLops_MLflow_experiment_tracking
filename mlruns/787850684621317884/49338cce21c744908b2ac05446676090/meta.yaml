@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/49338cce21c744908b2ac05446676090/artifacts
+end_time: 1747780106377
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 49338cce21c744908b2ac05446676090
+run_name: sassy-gnu-22
+run_uuid: 49338cce21c744908b2ac05446676090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747779961951
+status: 3
+tags: []
+user_id: HP

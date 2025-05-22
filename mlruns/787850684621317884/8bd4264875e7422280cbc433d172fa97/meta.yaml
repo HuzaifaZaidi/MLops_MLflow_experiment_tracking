@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/8bd4264875e7422280cbc433d172fa97/artifacts
+end_time: 1747822607248
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 8bd4264875e7422280cbc433d172fa97
+run_name: smiling-dolphin-772
+run_uuid: 8bd4264875e7422280cbc433d172fa97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822607074
+status: 3
+tags: []
+user_id: HP

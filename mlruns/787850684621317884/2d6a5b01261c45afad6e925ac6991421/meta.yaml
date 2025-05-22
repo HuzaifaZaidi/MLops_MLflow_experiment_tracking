@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/2d6a5b01261c45afad6e925ac6991421/artifacts
+end_time: 1747822606680
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 2d6a5b01261c45afad6e925ac6991421
+run_name: nimble-dove-432
+run_uuid: 2d6a5b01261c45afad6e925ac6991421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822606479
+status: 3
+tags: []
+user_id: HP

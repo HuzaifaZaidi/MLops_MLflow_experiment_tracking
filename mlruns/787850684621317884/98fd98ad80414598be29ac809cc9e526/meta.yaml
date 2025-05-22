@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/98fd98ad80414598be29ac809cc9e526/artifacts
+end_time: 1747779983698
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 98fd98ad80414598be29ac809cc9e526
+run_name: efficient-rat-877
+run_uuid: 98fd98ad80414598be29ac809cc9e526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747779979221
+status: 3
+tags: []
+user_id: HP

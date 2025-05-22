@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/d4898972a4db417aab028c07d0502e59/artifacts
+end_time: 1747779977410
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: d4898972a4db417aab028c07d0502e59
+run_name: caring-hog-680
+run_uuid: d4898972a4db417aab028c07d0502e59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747779977092
+status: 3
+tags: []
+user_id: HP

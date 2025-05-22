@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/b16aaa25d5344a30a17892a84dca8c30/artifacts
+end_time: 1747779984336
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: b16aaa25d5344a30a17892a84dca8c30
+run_name: handsome-rook-706
+run_uuid: b16aaa25d5344a30a17892a84dca8c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747779984040
+status: 3
+tags: []
+user_id: HP

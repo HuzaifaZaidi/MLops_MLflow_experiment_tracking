@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/7959d1cf99a9432eb7ce6fb6ec9a036b/artifacts
+end_time: 1747822606023
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 7959d1cf99a9432eb7ce6fb6ec9a036b
+run_name: nervous-kit-854
+run_uuid: 7959d1cf99a9432eb7ce6fb6ec9a036b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822605892
+status: 3
+tags: []
+user_id: HP

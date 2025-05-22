@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/fa53066e0e444dccb3595865463a88ec/artifacts
+end_time: 1747779978027
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: fa53066e0e444dccb3595865463a88ec
+run_name: able-grouse-6
+run_uuid: fa53066e0e444dccb3595865463a88ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747779977427
+status: 3
+tags: []
+user_id: HP

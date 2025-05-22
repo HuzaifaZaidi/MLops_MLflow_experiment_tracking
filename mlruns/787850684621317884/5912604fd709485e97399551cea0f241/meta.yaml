@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/5912604fd709485e97399551cea0f241/artifacts
+end_time: 1747822606310
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 5912604fd709485e97399551cea0f241
+run_name: invincible-bat-467
+run_uuid: 5912604fd709485e97399551cea0f241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822606186
+status: 3
+tags: []
+user_id: HP

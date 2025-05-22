@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/49da0f3734434f0a9dab21cbdb34d343/artifacts
+end_time: 1747779978696
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 49da0f3734434f0a9dab21cbdb34d343
+run_name: receptive-loon-102
+run_uuid: 49da0f3734434f0a9dab21cbdb34d343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747779978053
+status: 3
+tags: []
+user_id: HP

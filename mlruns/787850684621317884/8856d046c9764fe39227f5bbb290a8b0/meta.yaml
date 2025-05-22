@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/8856d046c9764fe39227f5bbb290a8b0/artifacts
+end_time: 1747822645742
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 8856d046c9764fe39227f5bbb290a8b0
+run_name: victorious-horse-333
+run_uuid: 8856d046c9764fe39227f5bbb290a8b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822594829
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/PROJECTS/mlops/MLops_MLflow_experiment_tracking/mlruns/787850684621317884/7fd56b0d2ec74f1d811dead54b2a8e50/artifacts
+end_time: 1747822605873
+entry_point_name: ''
+experiment_id: '787850684621317884'
+lifecycle_stage: active
+run_id: 7fd56b0d2ec74f1d811dead54b2a8e50
+run_name: bold-bug-427
+run_uuid: 7fd56b0d2ec74f1d811dead54b2a8e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822605597
+status: 3
+tags: []
+user_id: HP
